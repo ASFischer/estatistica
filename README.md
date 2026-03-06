@@ -1,4 +1,4 @@
-o Caos aos Dados: O Poder da Amostragem e Estatística com Python 📊🐍
+Do Caos aos Dados: O Poder da Amostragem e Estatística com Python 📊🐍
 
 Recentemente, aprofundei meus estudos em fundamentos essenciais da Ciência de Dados, e a principal lição é: antes de treinar qualquer modelo, você precisa entender a "alma" dos seus dados.
 
